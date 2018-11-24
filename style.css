@@ -252,6 +252,11 @@ h2.entry-title {
 h3.widget-title {
   font-size: 1.2rem;
 }
+/* Import Hysteria font */
+@font-face {
+  font-family: Hysteria;
+  src: url('fonts/Hysteria Brush.otf');
+}
 
 /*--------------------------------------------------------------
 # Elements
@@ -366,8 +371,9 @@ a.page-scroller {
 body:not(.theme-preset-active) #masthead .navbar-nav > li > a {
   color: #8700b1b3;
   padding: 0.5rem;
+  font-family: Hysteria;
   font-weight: 500;
-  font-size: 1.4rem;
+  font-size: 2rem;
 }
 
 body:not(.theme-preset-active) #masthead .navbar-nav > li > a:hover,
