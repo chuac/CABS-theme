@@ -368,9 +368,11 @@ a.page-scroller {
   padding-right: 0;
 }
 
+/* Top Menu navbar */
 body:not(.theme-preset-active) #masthead .navbar-nav > li > a {
   color: #8700b1b3;
-  padding: 0.5rem;
+  padding: 0rem;
+  padding-right: 5rem;
   font-family: Hysteria;
   font-weight: 500;
   font-size: 2rem;
