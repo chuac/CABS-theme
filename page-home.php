@@ -1,8 +1,8 @@
 <?php
 /**
- * Home page
+ * Template Name: Home
  *
- * @link 
+ * @link
  *
  * @package CABS-theme
  */
